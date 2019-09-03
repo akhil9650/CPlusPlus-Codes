@@ -1,2 +1,2 @@
 # CPlusPlus-Codes
-Contains programmes related to data structures in C++ with implementation and solved examples using these data structures
+Implementation of various data structures and their various applications in solving problems.
